@@ -13,7 +13,7 @@ For students who are off-campus, you need to install VPN before connecting to AF
     2.3 Log in using your UCID. \
         ![alt_text](images/anyconnect_2.PNG)
         
-    2.4 Verify your connection.
+    2.4 Verify your connection. \
         ![alt_text](images/anyconnect_3.PNG)
 
 
