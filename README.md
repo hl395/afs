@@ -2,16 +2,19 @@
 Help note on how to upload files to AFS machines for NJIT students.
 
 ## VPN (for off-campus only)
-For students who are off-campus, you need to install VPN. 
+For students who are off-campus, you need to install VPN before connecting to AFS. 
 1. Download Cisco Any conncet, detailed instructions can be found here [NJIT VPN](https://ist.njit.edu/vpn), .
 2. Once installed, follow these instructions to connect.
-    - Launch the Cisco AnyConnect app
-    - Enter vpn.njit.edu as the address and click Connect
-    ![alt_text](images/anyconnect_1.PNG)
-    - Log in using your UCID.
-    ![alt_text](images/anyconnect_2.PNG)
-    - Verify your connection.
-    ![alt_text](images/anyconnect_3.PNG)
+    2.1 Launch the Cisco AnyConnect app. 
+    
+    2.2 Enter vpn.njit.edu as the address and click Connect. \
+        ![alt_text](images/anyconnect_1.PNG)
+        
+    2.3 Log in using your UCID. \
+        ![alt_text](images/anyconnect_2.PNG)
+        
+    2.4 Verify your connection.
+        ![alt_text](images/anyconnect_3.PNG)
 
 
 ### SSH to AFS Server
